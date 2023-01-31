@@ -1,0 +1,73 @@
+{
+    "format": "1.0.0",
+    "name": "Anotherr Space",
+    "slug": "anotherr-space",
+    "version": {
+        "components": [
+            {
+                "container": null,
+                "functions": [],
+                "layout": {
+                    "height": "86px",
+                    "left": "2%",
+                    "minHeight": "10px",
+                    "minWidth": "10px",
+                    "overflow": "auto",
+                    "position": "absolute",
+                    "snapToGrid": true,
+                    "top": "0px",
+                    "width": "96%"
+                },
+                "name": "",
+                "properties": {
+                    "text": "test"
+                },
+                "slug": "header1",
+                "sourceType": null,
+                "type": "HEADER",
+                "view": null
+            },
+            {
+                "container": null,
+                "functions": [],
+                "layout": {},
+                "name": "",
+                "properties": {
+                    "url_parameters": []
+                },
+                "slug": "params",
+                "sourceType": null,
+                "type": "PARAMS",
+                "view": null
+            },
+            {
+                "container": null,
+                "functions": [],
+                "layout": {
+                    "height": "auto",
+                    "left": "50%",
+                    "minHeight": "10px",
+                    "minWidth": "10px",
+                    "overflow": "visible",
+                    "position": "absolute",
+                    "snapToGrid": true,
+                    "top": "394.5px",
+                    "width": "auto"
+                },
+                "name": "",
+                "properties": {
+                    "label": null,
+                    "styles": null,
+                    "template": "`Text`",
+                    "visibility_rules": []
+                },
+                "slug": "calculatedField1",
+                "sourceType": null,
+                "type": "CALCULATED_FIELD",
+                "view": null
+            }
+        ],
+        "parameters": [],
+        "subSpaces": []
+    }
+}
