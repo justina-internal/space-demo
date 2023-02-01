@@ -20,7 +20,7 @@
                 },
                 "name": "",
                 "properties": {
-                    "text": "test"
+                    "text": "Source Control Management"
                 },
                 "slug": "header1",
                 "sourceType": null,
@@ -44,15 +44,15 @@
                 "container": null,
                 "functions": [],
                 "layout": {
-                    "height": "auto",
-                    "left": "50%",
+                    "height": "240px",
+                    "left": "2%",
                     "minHeight": "10px",
                     "minWidth": "10px",
                     "overflow": "visible",
                     "position": "absolute",
                     "snapToGrid": true,
-                    "top": "394.5px",
-                    "width": "auto"
+                    "top": "120px",
+                    "width": "18%"
                 },
                 "name": "",
                 "properties": {
