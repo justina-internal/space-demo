@@ -65,6 +65,32 @@
                 "sourceType": null,
                 "type": "CALCULATED_FIELD",
                 "view": null
+            },
+            {
+                "container": null,
+                "functions": [],
+                "layout": {
+                    "height": "auto",
+                    "left": "26%",
+                    "minHeight": "10px",
+                    "minWidth": "10px",
+                    "overflow": "visible",
+                    "position": "absolute",
+                    "snapToGrid": true,
+                    "top": "120px",
+                    "width": "auto"
+                },
+                "name": "",
+                "properties": {
+                    "label": null,
+                    "styles": null,
+                    "template": "`Text`",
+                    "visibility_rules": []
+                },
+                "slug": "calculatedField2",
+                "sourceType": null,
+                "type": "CALCULATED_FIELD",
+                "view": null
             }
         ],
         "parameters": [],
